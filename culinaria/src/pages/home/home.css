@@ -1,0 +1,143 @@
+
+
+button.btn.btnSectionTopo {
+    background: var(--tertiary-color);
+    color: var(--secundary-color);
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+button.btn.btnSectionTopo:hover {
+    padding: 8px  20px;
+    transition: 0.5s;
+    background-color: var(--purpleHover);
+    color: var(--secundary-color);
+}
+
+
+.divisor {
+    width: auto;
+    height: 5px;
+    background: linear-gradient(to left, black, rgb(219, 143, 143), black);
+}
+
+#listaDoces h1 {
+    border: 2px solid var(--secundary-color);
+    display: inline;
+    padding: 5px 11px;
+    border-radius: 10px;
+    background: var(--tertiary-color);
+    color: var(--secundary-color);
+    transition: 0.5s;
+}
+
+#listaDoces h1:hover {
+    padding: 9px 13px;
+    transition: 0.5s;
+    border: 2px solid var(--tertiary-color);
+}
+
+
+button {
+    all: unset;
+}
+
+.g-10 {
+    gap: 10px;
+}
+
+.alinhaLeft {
+    margin-left: -20px !important;
+}
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .estiloc{ 
+    min-width: 100%;
+    display: flex;
+    background-color: #d38248;
+    border: 10px solid ;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+
+  }
+  .estiloc2{ 
+    width: 40%;
+    display: flex;
+    background-color: #d38248;
+    border: 10px solid ;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 30%;
+
+
+  }
+  .imag{
+    border-radius: 10px;
+    border: 8px solid #f2cc49;
+    width: 300px;
+    margin: 0;
+    padding: 0;
+  }
+  .descricao{
+    display: flex;
+    flex-direction: column;
+    padding: 70px;
+  }
+  .modal-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 40%;
+    overflow: auto;
+    position: relative;
+    margin-top: 40px;
+  }
+  
+  .close {
+    position: absolute;
+    top: 1px;
+    right: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 30px;
+  }
+.imagem1{
+    margin-top: 10px;
+    width: 100%;
+    margin-left: 50%;
+}  
+
+@media (max-width: 767px) {
+    button.btn.btnSectionTopo {
+        margin: 5px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .newsBorder {
+        border: 12px solid black;
+        border-radius: 5px; 
+    }
+}
+
+@media (max-width: 992px) {
+    .marginMediaQuery {
+        margin-top: 1.5rem;
+    }
+}

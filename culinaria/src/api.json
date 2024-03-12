@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "titulo": "Bolinho de arroz",
+      "ingredientes": "2 xícaras (chá) de arroz cozido 1 colher (sopa) de fermento em pó 1 xícara (chá) de farinha de trigo 2 ovos 100 ml de leite 100 gramas de queijo muçara 2 colheres (sopa) de queijo parmesão ralado",
+      "modoPreparo": "Em uma vasilha, misture o arroz, o leite, os ovos, os queijos e temperos a gosto; Acrescente a farinha de trigo aos poucos até dar consistência; Coloque o fermento por último e aqueça o óleo em uma panela com fundo grosso;  Com a panela no fogo baixo, coloque os bolinhos e frite com cuidado;  Depois de fritos, sirva-os!",
+      "image": "https://s2-receitas.glbimg.com/PiQjmv_CNRurQMf8stNnxem3tyw=/0x0:600x387/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/P/D/hgO8L8SAKl5Ty9IQs9nA/bolinho-de-arroz-crocante.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Pipoca Doce",
+      "ingredientes": "4 colheres de sopa de milho para pipoca, 4 colheres de sopa de açúcar, 4 colheres de sopa de água, 3 colheres de sopa de óleo",
+      "modoPreparo":"Misturar todos os ingredientes numa panela de fundo grosso; Tampar e levar ao fogo médio, mexendo sempre a panela (use luvas de proteção térmica) até estourar todo o milho; Assim que parar os estouros, tire imediatamente a pipoca da panela para não queimar e coloque na travessa em que vai servir.",
+      "image": "https://s2-receitas.glbimg.com/xeuDyRosQJqQOfmKRa3K25ZWgDg=/0x0:1000x667/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/6/O/LtGAQHQyKFAUUdHJlSbg/delicious-popcorn.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Creme de milho",
+      "ingredientes": "1 lata de milho, 1 e 1/2 xícara (chá) de leite, 1 caixinha de creme de leite, 2 colheres (sopa) de farinha de trigo",
+      "modoPreparo":"Bata o milho com o leite no liquidificador até obter um creme bem homogêneo, com o milho completamente triturado. Reserve; Em uma panela, aqueça a manteiga até que ela derreta levemente. Acrescente a cebola ralada e refogue por alguns minutos até que ela fique dourada;",
+      "image": "https://s2-receitas.glbimg.com/v1AhzxLmQERiJF4nRAL1MM9kYHQ=/0x0:1280x853/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/1/0/66nFHyRRAGRSyGrGJuPg/creme-de-milho.jpeg"
+    },
+    {
+      "id": 4,
+      "titulo": "Brownie",
+      "ingredientes": "2 xícaras de achocolatado em pó, 1 xícara de farinha de trigo, 1 xícara de açúcar",
+      "modoPreparo":"Em uma tigela coloque os ovos e o açúcar e bata com a ajuda de fouet ou garfo; Em seguida adicione a manteiga e o achocolatado em pó; Misture tudo e depois adicione a farinha de trigo;",
+      "image": "https://s2-receitas.glbimg.com/YYrJO2uFS4x0uHq-_fRmGbVG5m4=/0x0:275x183/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/y/H/ZSIYRzRsmXIb73mnAP0Q/brownie-de-chocolate.jpg"
+    }
+]

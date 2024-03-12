@@ -1,0 +1,54 @@
+/* Variables
+-----------------------------*/
+:root {
+    --primary-color: #9897da;
+    --secundary-color: white;
+    --tertiary-color: rgb(197, 99, 0);
+    --purpleHover: #d38248;
+}
+
+/* General Styles
+-----------------------------*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #67594d;
+}
+
+html, body, #home {
+	height: 100%;
+	overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+a, a:hover, a:active, a:focus {
+    color: var(--secundary-color);
+    text-decoration: none;
+}
+
+
+.fullAlignFlex {
+    display: flex;
+    text-align: center; 
+    justify-content: center;
+}
+
+.flexDirectionColumn {
+    flex-direction: column;
+}
+
+.widthFull {
+    width: 100% !important;
+}
+
+.espacoTopo {
+    margin-top: 25px !important;
+}
+
+.espacoLateral {
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+}
